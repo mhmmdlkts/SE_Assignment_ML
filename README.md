@@ -1,4 +1,4 @@
-# SE_Assignment_ML
+# Software Engineering Assignment 4
 
 Implement the following machine learning application using google-colab. The task is to assess the
 hand value for a hand of three poker cards given the following rules:
