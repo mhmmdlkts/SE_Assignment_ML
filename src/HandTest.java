@@ -2,7 +2,7 @@ import org.junit.jupiter.api.Assertions;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-class testHand {
+class HandTest {
 
     @org.junit.jupiter.api.Test
     void generateHand() {
